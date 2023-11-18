@@ -139,6 +139,14 @@ Favorite Currencies Screen
 
 Wireframes
 
+<div>
+    <a href="https://www.loom.com/share/93cab7088c644bf2b65ddb84328ff2ae">
+    </a>
+    <a href="https://www.loom.com/share/93cab7088c644bf2b65ddb84328ff2ae">
+      <img style="max-width:300px;" src="null">
+    </a>
+  </div>
+
 Click the link to view the wireframes
 
 [BONUS] Digital Wireframes & Mockups
