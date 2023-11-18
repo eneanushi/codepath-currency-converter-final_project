@@ -162,7 +162,9 @@ Click the link to view the wireframes
 
 Schema
 //click the link to see it. Provided a very simple one, since I actually showed my actual demo above
-img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNpMjN2c2swNmI4OWtjanpsb2JlcDBobGd5MGJ2a2l5Y2hld3hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Cma3nOJGEETbUR9lf/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+
+ <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNpMjN2c2swNmI4OWtjanpsb2JlcDBobGd5MGJ2a2l5Y2hld3hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Cma3nOJGEETbUR9lf/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 Models
 
