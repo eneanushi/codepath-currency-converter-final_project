@@ -141,7 +141,9 @@ Wireframes
 
 
 
- <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2psYXY5eW1rbjl3ZHE4NTJub2xxZnh2dDNlMWUyMzM4djZxNmJ0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/30edsuo6Z8bX6Py8SB/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2psYXY5eW1rbjl3ZHE4NTJub2xxZnh2dDNlMWUyMzM4djZxNmJ0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/30edsuo6Z8bX6Py8SB/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ 
 
 
 <div>
