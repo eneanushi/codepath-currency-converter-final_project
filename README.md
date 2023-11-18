@@ -141,6 +141,9 @@ Wireframes
 
 
 
+ <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2psYXY5eW1rbjl3ZHE4NTJub2xxZnh2dDNlMWUyMzM4djZxNmJ0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/30edsuo6Z8bX6Py8SB/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 <div>
     <a href="https://www.loom.com/share/93cab7088c644bf2b65ddb84328ff2ae">
     </a>
@@ -157,7 +160,7 @@ Click the link to view the wireframes
 
 Schema
 
-src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNpMjN2c2swNmI4OWtjanpsb2JlcDBobGd5MGJ2a2l5Y2hld3hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Cma3nOJGEETbUR9lf/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNpMjN2c2swNmI4OWtjanpsb2JlcDBobGd5MGJ2a2l5Y2hld3hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Cma3nOJGEETbUR9lf/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Models
 
