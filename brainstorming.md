@@ -10,6 +10,7 @@ Allows new international students in the US to get the information needed regard
 ---
 
 Currency Converter Plus
+
 An enhanced currency converter app that not only provides real-time exchange rates but also offers advanced features such as historical trends, favorite currency tracking, and notifications for significant rate changes.
 
 ---
@@ -51,7 +52,7 @@ Habit: International students spend a significant amount each year on health ins
 
 Scope: INTAPP will provide concentrated beneficial information to new international students.
 
-Currency Converter Plus
+[x]Currency Converter Plus
 --
 Description: An enhanced currency converter app that not only provides real-time exchange rates but also offers advanced features such as historical trends, favorite currency tracking, and notifications for significant rate changes.
 
