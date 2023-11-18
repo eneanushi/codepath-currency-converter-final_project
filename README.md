@@ -28,14 +28,14 @@ Required Must-have Stories
 
 As a user, I want to create an account on the app.
 As a user, I want to input and verify my contact information.
+
 [x] Currency Conversion:
-
 As a user, I want to easily convert one currency to another.
-As a user, I want to see real-time exchange rates.
-[ ] Favorite Currencies:
 
+[ ] Favorite Currencies:
 As a user, I want to save my frequently used currencies for quick access.
 As a user, I want to receive notifications about significant currency rate changes.
+
 [ ] Offline Mode:
 
 As a user, I want to access previously used exchange rates and perform conversions offline.
@@ -46,20 +46,22 @@ As a user, I want to view historical trends and charts for different currencies.
 Optional Nice-to-have Stories
 
 [x] Dark Mode:
-
 As a user, I want the option to use the app in dark mode for better visibility.
+
 [ ] Currency News:
-
 As a user, I want to receive updates on currency-related news and events.
+
 [ ] Travel Expense Tracker:
-
 As a user, I want to track and manage my expenses in different currencies during travels.
+
 [ ] Integration with Financial Apps:
-
 As a user, I want to integrate CurrencyConvert with other financial apps for seamless transactions.
-[ ] Multilingual Support:
 
+[ ] Multilingual Support:
 As a user, I want the app to support multiple languages for a global user base.
+
+[] Passing API Data
+As a user, I want receive the latest conversion koeficient
 ...
 
 Screen Archetypes
